@@ -1,2 +1,2 @@
-# pylogs
+# Logful
 A powerful logging framework.
